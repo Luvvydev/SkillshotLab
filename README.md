@@ -1,3 +1,8 @@
+<img src="images/council.gif" width="400" alt="Council preview">
+
+
+
+
 # SkillshotLab
 
 SkillshotLab is a small C++ playground for experimenting with skillshot prediction, geometry, and decision logic without depending on any game API.
