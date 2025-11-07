@@ -2,7 +2,7 @@
 
 # SkillshotLab
 
-small C++ playground for skillshot prediction and evasion
+C++ playground for skillshot prediction and evasion
 
 The simulation is a top down arena that shows:
 
