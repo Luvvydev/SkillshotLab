@@ -2,9 +2,7 @@
 
 # SkillshotLab
 
-SkillshotLab is a small C++ playground for skillshot prediction and evasion.
-
-this project recreates the core ideas of my private C++ work in a self contained sandbox.
+small C++ playground for skillshot prediction and evasion
 
 The simulation is a top down arena that shows:
 
@@ -28,7 +26,6 @@ I want to represent some concepts:
 * Choosing cast positions that balance hit chance and range
 * Reasoning about incoming projectiles and safe movement
 
-this is a public version of those ideas.
 
 The caster sits on the left side of the arena.  
 Enemies move inside a world box and the system:
