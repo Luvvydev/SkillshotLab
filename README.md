@@ -1,4 +1,4 @@
-<img src="images/council.gif" width="400" alt="Council preview">
+<img src="predictionopt.gif" width="400" alt="prediction preview">
 
 
 
